@@ -1,4 +1,4 @@
-````markdown
+
 # Distributed URL Shortener
 
 A production-oriented URL shortening service built to understand and implement **system design and distributed systems concepts**.
